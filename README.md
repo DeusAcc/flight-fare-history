@@ -3,7 +3,7 @@
 **712,584 observed fares on 48,664 city pairs, collected continuously since
 2026-06-14.** Not a search engine snapshot: the same routes are observed again and again, so what
 you get here is the *distribution* of a route's price, which is the thing a live search can never
-tell you. Updated daily. Source: <https://piratefly.com>
+tell you. Updated daily. Source: <https://piratefly.com/?src=github>
 
 ## Files
 
@@ -24,7 +24,7 @@ lowest ever observed, and which departure months are cheap on that route. That j
 history, and a history cannot be reconstructed after the fact — which is why this file exists.
 
 The live version of this judgement, per route and in one call, is a free public MCP server
-(`flight_price_verdict`, `cheapest_months`, `when_to_book`): <https://piratefly.com>
+(`flight_price_verdict`, `cheapest_months`, `when_to_book`): <https://piratefly.com/?src=github>
 
 ## Method, and what it does not cover
 
@@ -39,6 +39,6 @@ The live version of this judgement, per route and in one call, is a free public 
 
 ## Citing
 
-> Piratefly flight fare history, 2026-09-19. 712,584 observed fares, 24,172 routes. <https://piratefly.com>
+> Piratefly flight fare history, 2026-09-19. 712,584 observed fares, 24,172 routes. <https://piratefly.com/?src=github>
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, say where it came from.
