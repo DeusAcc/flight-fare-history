@@ -1,6 +1,6 @@
 # Flight fare history — what routes actually cost, measured
 
-**1,052,988 observed fares on 50,941 city pairs, collected continuously since
+**1,060,067 observed fares on 50,971 city pairs, collected continuously since
 2026-06-14.** Not a search engine snapshot: the same routes are observed again and again, so what
 you get here is the *distribution* of a route's price, which is the thing a live search can never
 tell you. Updated daily. Source: <https://piratefly.com/?src=github>
@@ -46,6 +46,6 @@ Docs and Pro checkout: <https://piratefly.com/api/?src=github>
 
 ## Citing
 
-> Piratefly flight fare history, 2026-09-28. 1,052,988 observed fares, 50,941 city pairs. <https://piratefly.com/?src=github>
+> Piratefly flight fare history, 2026-09-29. 1,060,067 observed fares, 50,971 city pairs. <https://piratefly.com/?src=github>
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, say where it came from.
