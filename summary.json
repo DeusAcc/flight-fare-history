@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-29T00:04:14.546Z",
- "observations": 1060067,
- "routes": 50971,
- "routes_published": 27470,
- "route_months_published": 46426,
+ "generated": "2026-09-30T00:00:46.196Z",
+ "observations": 1069323,
+ "routes": 51002,
+ "routes_published": 27514,
+ "route_months_published": 46586,
  "min_sample_published": 5,
  "observed_from": "2026-06-14",
- "observed_to": "2026-09-28",
+ "observed_to": "2026-09-29",
  "median_fare_eur": 114
 }
