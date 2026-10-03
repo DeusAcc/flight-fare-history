@@ -1,6 +1,6 @@
 # Flight fare history — what routes actually cost, measured
 
-**1,132,210 observed fares on 51,870 city pairs, collected continuously since
+**1,199,306 observed fares on 52,011 city pairs, collected continuously since
 2026-06-14.** Not a search engine snapshot: the same routes are observed again and again, so what
 you get here is the *distribution* of a route's price, which is the thing a live search can never
 tell you. Updated daily. Source: <https://piratefly.com/?src=github>
@@ -15,6 +15,28 @@ tell you. Updated daily. Source: <https://piratefly.com/?src=github>
 | `daily/<date>.json` | each day | the immutable daily snapshot — this directory is the series |
 
 Prices are in EUR, per one-way fare as advertised, including the price shown at collection time.
+
+## Most-observed routes
+
+Today's price against the history, per route, is one click away:
+
+| Route | Observations | Median € | Lowest € |
+|---|---|---|---|
+| [Paris → Milan](https://piratefly.com/flights/paris-to-milan?src=github) | 2,609 | 31.00 | 13.00 |
+| [Phuket → Bangkok](https://piratefly.com/flights/phuket-to-bangkok?src=github) | 2,560 | 35.00 | 11.00 |
+| [Tokyo → Osaka](https://piratefly.com/flights/tokyo-to-osaka?src=github) | 2,391 | 50.00 | 25.00 |
+| [Osaka → Tokyo](https://piratefly.com/flights/osaka-to-tokyo?src=github) | 2,188 | 42.00 | 21.00 |
+| [London → Edinburgh](https://piratefly.com/flights/london-to-edinburgh?src=github) | 2,187 | 23.00 | 16.00 |
+| [London → Barcelona](https://piratefly.com/flights/london-to-barcelona?src=github) | 2,037 | 30.00 | 16.00 |
+| [Chiang Mai → Bangkok](https://piratefly.com/flights/chiang-mai-to-bangkok?src=github) | 1,997 | 38.00 | 17.00 |
+| [London → Milan](https://piratefly.com/flights/london-to-milan?src=github) | 1,938 | 28.00 | 17.00 |
+| [Bangkok → Phuket](https://piratefly.com/flights/bangkok-to-phuket?src=github) | 1,928 | 33.00 | 11.00 |
+| [Seoul → Jeju City](https://piratefly.com/flights/seoul-to-jeju-city?src=github) | 1,719 | 26.00 | 10.00 |
+| [Singapore → Kuala Lumpur](https://piratefly.com/flights/singapore-to-kuala-lumpur?src=github) | 1,635 | 64.00 | 50.00 |
+| [Belfast → London](https://piratefly.com/flights/belfast-to-london?src=github) | 1,591 | 21.00 | 16.00 |
+| [Hanoi → Da Nang](https://piratefly.com/flights/hanoi-to-da-nang?src=github) | 1,528 | 23.00 | 20.00 |
+| [Ho Chi Minh City → Phu Quoc Island](https://piratefly.com/flights/ho-chi-minh-city-to-phu-quoc-island?src=github) | 1,514 | 21.00 | 19.00 |
+| [Edinburgh → London](https://piratefly.com/flights/edinburgh-to-london?src=github) | 1,488 | 20.00 | 16.00 |
 
 ## What it answers that a flight search cannot
 
@@ -46,6 +68,6 @@ Docs and Pro checkout: <https://piratefly.com/api/?src=github>
 
 ## Citing
 
-> Piratefly flight fare history, 2026-10-03. 1,132,210 observed fares, 51,870 city pairs. <https://piratefly.com/?src=github>
+> Piratefly flight fare history, 2026-10-03. 1,199,306 observed fares, 52,011 city pairs. <https://piratefly.com/?src=github>
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, say where it came from.
