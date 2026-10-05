@@ -1,0 +1,11 @@
+{
+ "generated": "2026-10-05T00:54:29.215Z",
+ "observations": 1404457,
+ "routes": 52561,
+ "routes_published": 29975,
+ "route_months_published": 53887,
+ "min_sample_published": 5,
+ "observed_from": "2026-06-14",
+ "observed_to": "2026-10-05",
+ "median_fare_eur": 117
+}
