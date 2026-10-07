@@ -1,6 +1,6 @@
 # Flight fare history — what routes actually cost, measured
 
-**1,574,564 observed fares on 52,968 city pairs, collected continuously since
+**1,647,116 observed fares on 60,921 city pairs, collected continuously since
 2026-06-14.** Not a search engine snapshot: the same routes are observed again and again, so what
 you get here is the *distribution* of a route's price, which is the thing a live search can never
 tell you. Updated daily. Source: <https://piratefly.com/?src=github>
@@ -22,21 +22,21 @@ Today's price against the history, per route, is one click away:
 
 | Route | Observations | Median € | Lowest € |
 |---|---|---|---|
-| [Tokyo → Osaka](https://piratefly.com/flights/tokyo-to-osaka?src=github) | 3,587 | 50.00 | 25.00 |
-| [Phuket → Bangkok](https://piratefly.com/flights/phuket-to-bangkok?src=github) | 3,496 | 35.00 | 9.00 |
-| [Osaka → Tokyo](https://piratefly.com/flights/osaka-to-tokyo?src=github) | 3,444 | 42.00 | 21.00 |
-| [Paris → Milan](https://piratefly.com/flights/paris-to-milan?src=github) | 3,297 | 32.00 | 13.00 |
-| [London → Edinburgh](https://piratefly.com/flights/london-to-edinburgh?src=github) | 2,783 | 24.00 | 16.00 |
-| [London → Milan](https://piratefly.com/flights/london-to-milan?src=github) | 2,695 | 29.00 | 17.00 |
-| [Chiang Mai → Bangkok](https://piratefly.com/flights/chiang-mai-to-bangkok?src=github) | 2,667 | 39.00 | 17.00 |
-| [Seoul → Jeju City](https://piratefly.com/flights/seoul-to-jeju-city?src=github) | 2,548 | 26.00 | 10.00 |
-| [Bangkok → Phuket](https://piratefly.com/flights/bangkok-to-phuket?src=github) | 2,531 | 33.00 | 11.00 |
-| [London → Barcelona](https://piratefly.com/flights/london-to-barcelona?src=github) | 2,421 | 31.00 | 16.00 |
-| [Hanoi → Da Nang](https://piratefly.com/flights/hanoi-to-da-nang?src=github) | 2,311 | 23.00 | 20.00 |
-| [Singapore → Kuala Lumpur](https://piratefly.com/flights/singapore-to-kuala-lumpur?src=github) | 2,155 | 65.00 | 50.00 |
-| [Belfast → London](https://piratefly.com/flights/belfast-to-london?src=github) | 2,147 | 22.00 | 16.00 |
-| [Malé → Colombo](https://piratefly.com/flights/male-to-colombo?src=github) | 2,101 | 158.00 | 121.00 |
-| [IZM → Istanbul](https://piratefly.com/flights/izm-to-istanbul?src=github) | 2,013 | 27.00 | 17.00 |
+| [Tokyo → Osaka](https://piratefly.com/flights/tokyo-to-osaka?src=github) | 3,593 | 50.00 | 25.00 |
+| [Phuket → Bangkok](https://piratefly.com/flights/phuket-to-bangkok?src=github) | 3,498 | 35.00 | 9.00 |
+| [Osaka → Tokyo](https://piratefly.com/flights/osaka-to-tokyo?src=github) | 3,450 | 42.00 | 21.00 |
+| [Paris → Milan](https://piratefly.com/flights/paris-to-milan?src=github) | 3,307 | 32.00 | 13.00 |
+| [London → Edinburgh](https://piratefly.com/flights/london-to-edinburgh?src=github) | 2,794 | 24.00 | 16.00 |
+| [London → Milan](https://piratefly.com/flights/london-to-milan?src=github) | 2,705 | 29.00 | 17.00 |
+| [Chiang Mai → Bangkok](https://piratefly.com/flights/chiang-mai-to-bangkok?src=github) | 2,670 | 39.00 | 17.00 |
+| [Bangkok → Phuket](https://piratefly.com/flights/bangkok-to-phuket?src=github) | 2,634 | 33.00 | 11.00 |
+| [Seoul → Jeju City](https://piratefly.com/flights/seoul-to-jeju-city?src=github) | 2,554 | 26.00 | 10.00 |
+| [London → Barcelona](https://piratefly.com/flights/london-to-barcelona?src=github) | 2,433 | 31.00 | 16.00 |
+| [Hanoi → Da Nang](https://piratefly.com/flights/hanoi-to-da-nang?src=github) | 2,314 | 23.00 | 20.00 |
+| [Singapore → Kuala Lumpur](https://piratefly.com/flights/singapore-to-kuala-lumpur?src=github) | 2,157 | 65.00 | 50.00 |
+| [Belfast → London](https://piratefly.com/flights/belfast-to-london?src=github) | 2,151 | 22.00 | 16.00 |
+| [Malé → Colombo](https://piratefly.com/flights/male-to-colombo?src=github) | 2,103 | 158.00 | 121.00 |
+| [Barcelona → Milan](https://piratefly.com/flights/barcelona-to-milan?src=github) | 2,092 | 17.00 | 9.00 |
 
 ## What it answers that a flight search cannot
 
@@ -75,6 +75,6 @@ Docs and Pro checkout: <https://piratefly.com/api/?src=github>
 
 ## Citing
 
-> Piratefly flight fare history, 2026-10-06. 1,574,564 observed fares, 52,968 city pairs. <https://piratefly.com/?src=github>
+> Piratefly flight fare history, 2026-10-07. 1,647,116 observed fares, 60,921 city pairs. <https://piratefly.com/?src=github>
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, say where it came from.
