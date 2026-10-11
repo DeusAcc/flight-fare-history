@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Flight fare history: observed airfare distributions by route and departure month"
+authors:
+  - name: "Piratefly"
+    website: "https://piratefly.com/?src=citation"
+doi: 10.5281/zenodo.23290390
+url: "https://piratefly.com/?src=citation"
+repository-code: "https://github.com/DeusAcc/flight-fare-history"
+license: CC-BY-4.0
+keywords:
+  - flights
+  - airfare
+  - flight prices
+  - price history
+  - travel
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23290390
+    description: "Concept DOI (all versions) on Zenodo"
