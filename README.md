@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23290390.svg)](https://doi.org/10.5281/zenodo.23290390)
 
-**4,313,742 observed fares on 89,907 city pairs, collected continuously since
+**4,443,381 observed fares on 90,614 city pairs, collected continuously since
 2026-06-14.** Not a search engine snapshot: the same routes are observed again and again, so what
 you get here is the *distribution* of a route's price, which is the thing a live search can never
 tell you. Updated daily. Source: <https://piratefly.com/?src=github>
@@ -24,21 +24,21 @@ Today's price against the history, per route, is one click away:
 
 | Route | Observations | Median € | Lowest € |
 |---|---|---|---|
-| [Tokyo → Osaka](https://piratefly.com/flights/tokyo-to-osaka?src=github) | 5,657 | 50.00 | 24.00 |
-| [Osaka → Tokyo](https://piratefly.com/flights/osaka-to-tokyo?src=github) | 5,512 | 42.00 | 21.00 |
-| [Phuket → Bangkok](https://piratefly.com/flights/phuket-to-bangkok?src=github) | 5,121 | 35.00 | 9.00 |
-| [Paris → Milan](https://piratefly.com/flights/paris-to-milan?src=github) | 4,868 | 32.00 | 13.00 |
-| [Seoul → Jeju City](https://piratefly.com/flights/seoul-to-jeju-city?src=github) | 4,225 | 25.00 | 10.00 |
-| [London → Edinburgh](https://piratefly.com/flights/london-to-edinburgh?src=github) | 4,219 | 24.00 | 14.00 |
-| [Bangkok → Phuket](https://piratefly.com/flights/bangkok-to-phuket?src=github) | 4,064 | 34.00 | 11.00 |
-| [Chiang Mai → Bangkok](https://piratefly.com/flights/chiang-mai-to-bangkok?src=github) | 4,015 | 40.00 | 17.00 |
-| [London → Milan](https://piratefly.com/flights/london-to-milan?src=github) | 3,845 | 29.00 | 16.00 |
-| [Hanoi → Da Nang](https://piratefly.com/flights/hanoi-to-da-nang?src=github) | 3,642 | 23.00 | 19.00 |
-| [Malé → Colombo](https://piratefly.com/flights/male-to-colombo?src=github) | 3,630 | 158.00 | 121.00 |
-| [London → Barcelona](https://piratefly.com/flights/london-to-barcelona?src=github) | 3,610 | 35.00 | 16.00 |
-| [Bangkok → Surat Thani](https://piratefly.com/flights/bangkok-to-surat-thani?src=github) | 3,562 | 31.00 | 12.00 |
-| [Barcelona → Milan](https://piratefly.com/flights/barcelona-to-milan?src=github) | 3,560 | 18.00 | 9.00 |
-| [Gazipaşa → Istanbul](https://piratefly.com/flights/gazipasa-to-istanbul?src=github) | 3,448 | 58.00 | 26.00 |
+| [Tokyo → Osaka](https://piratefly.com/flights/tokyo-to-osaka?src=github) | 5,752 | 50.00 | 24.00 |
+| [Osaka → Tokyo](https://piratefly.com/flights/osaka-to-tokyo?src=github) | 5,608 | 42.00 | 21.00 |
+| [Phuket → Bangkok](https://piratefly.com/flights/phuket-to-bangkok?src=github) | 5,208 | 35.00 | 9.00 |
+| [Paris → Milan](https://piratefly.com/flights/paris-to-milan?src=github) | 4,955 | 32.00 | 13.00 |
+| [Seoul → Jeju City](https://piratefly.com/flights/seoul-to-jeju-city?src=github) | 4,312 | 25.00 | 10.00 |
+| [London → Edinburgh](https://piratefly.com/flights/london-to-edinburgh?src=github) | 4,279 | 24.00 | 14.00 |
+| [Chiang Mai → Bangkok](https://piratefly.com/flights/chiang-mai-to-bangkok?src=github) | 4,088 | 40.00 | 17.00 |
+| [Bangkok → Phuket](https://piratefly.com/flights/bangkok-to-phuket?src=github) | 4,076 | 34.00 | 11.00 |
+| [London → Milan](https://piratefly.com/flights/london-to-milan?src=github) | 3,914 | 29.50 | 16.00 |
+| [Malé → Colombo](https://piratefly.com/flights/male-to-colombo?src=github) | 3,710 | 158.00 | 121.00 |
+| [Hanoi → Da Nang](https://piratefly.com/flights/hanoi-to-da-nang?src=github) | 3,699 | 23.00 | 19.00 |
+| [London → Barcelona](https://piratefly.com/flights/london-to-barcelona?src=github) | 3,644 | 35.00 | 16.00 |
+| [Bangkok → Surat Thani](https://piratefly.com/flights/bangkok-to-surat-thani?src=github) | 3,593 | 31.00 | 12.00 |
+| [Barcelona → Milan](https://piratefly.com/flights/barcelona-to-milan?src=github) | 3,581 | 18.00 | 9.00 |
+| [Gazipaşa → Istanbul](https://piratefly.com/flights/gazipasa-to-istanbul?src=github) | 3,529 | 58.00 | 26.00 |
 
 ## What it answers that a flight search cannot
 
@@ -69,7 +69,7 @@ Docs and Pro checkout: <https://piratefly.com/api/?src=github>
 - Every row is an observed advertised fare, stored at collection time, never a modelled estimate.
 - A route × month group is published only with at least 5 observations; thinner
   groups are left out entirely instead of being filled with a plausible-looking median.
-- Observation window: 2026-06-14 → 2026-10-25. Anything older than that does not exist here.
+- Observation window: 2026-06-14 → 2026-10-26. Anything older than that does not exist here.
 - Coverage follows where fares were found, not a designed sample: city pairs are unevenly
   represented and this is not a random sample of the world's air traffic.
 - One-way advertised fares only. No taxes breakdown, no seat class, no availability guarantee, and
@@ -77,6 +77,6 @@ Docs and Pro checkout: <https://piratefly.com/api/?src=github>
 
 ## Citing
 
-> Piratefly flight fare history, 2026-10-26. 4,313,742 observed fares, 89,907 city pairs. DOI [10.5281/zenodo.23290390](https://doi.org/10.5281/zenodo.23290390). <https://piratefly.com/?src=github>
+> Piratefly flight fare history, 2026-10-27. 4,443,381 observed fares, 90,614 city pairs. DOI [10.5281/zenodo.23290390](https://doi.org/10.5281/zenodo.23290390). <https://piratefly.com/?src=github>
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, say where it came from.
