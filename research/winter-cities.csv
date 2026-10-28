@@ -1,283 +1,287 @@
 city,country,median_eur,p10_eur,fares,origins
-Dubrave Gornje,Bosnia and Herzegovina,18,8,270,14
-Milan,Italy,28,16,48500,186
-London,United Kingdom,29,17,29084,191
-Farranfore,Ireland,29,21,155,8
-Palermo,Italy,30,15,6033,110
-Catania,Italy,31,16,5231,97
-Tirana,Albania,31,15,6464,114
-Venice,Italy,32,17,12272,148
-Valletta,Malta,32,16,5719,119
-Milan Bergamo,Italy,32,20,953,7
-Belfast,United Kingdom,34,19,3497,48
-Palma de Mallorca,Spain,35,15,5763,116
-Bilbao,Spain,36,16,5415,92
-Rome,Italy,37,18,29934,186
-Edinburgh,United Kingdom,37,19,6971,114
-Turin,Italy,37,16,3717,96
-Barcelona,Spain,38,18,29194,190
-Krakow,Poland,38,17,10719,145
-Valencia,Spain,38,16,9355,144
-Ibiza,Spain,38,14,1722,69
-Porto,Portugal,39,20,9175,139
-Lamezia Terme (Calabria),Italy,39,16,1554,52
-Budapest,Hungary,40,19,16986,173
-Madrid,Spain,40,20,16361,163
-Pisa,Italy,40,17,2969,90
-Warsaw,Poland,44,19,22852,189
-Gdansk,Poland,44,17,13023,149
-Malaga,Spain,44,19,9617,151
-Alicante,Spain,44,21,11239,164
-Dublin,Ireland,44,21,8006,145
-Cagliari,Italy,44,16,2187,66
-Seville,Spain,46,19,4762,111
-Reggio Calabria,Italy,46,16,662,28
-Brussels,Belgium,47,21,8039,154
-Bari,Italy,48,16,4997,106
-Bratislava,Slovakia,50,17,5630,128
-Lisbon,Portugal,50,24,12780,152
-Bologna,Italy,50,17,4547,124
-Naples,Italy,50,19,2561,84
-Chişinău,Moldova,51,21,19176,175
-Paris,France,51,24,21150,196
-Dortmund,Germany,51,23,3165,102
-Pescara,Italy,51,16,811,41
-Sofia,Bulgaria,52,20,6459,122
-Bucharest,Romania,53,21,7651,149
-Oslo,Norway,53,18,8009,127
-Skopje,North Macedonia,53,16,1690,67
-Santorini,Greece,53,43,745,42
-Manchester,United Kingdom,54,18,3679,111
-Stockholm,Sweden,54,21,7192,134
-Athens,Greece,54,29,9192,149
-Liverpool,United Kingdom,54,19,1093,53
-Asturias (Oviedo),Spain,54.5,21,2036,68
-Glasgow,United Kingdom,56,19,1714,59
-Wroclaw,Poland,56,19,3424,116
-Faro,Portugal,57,24,2780,101
-Eindhoven,Netherlands,57,28,2919,93
-Copenhagen,Denmark,58,22,7491,141
-Birmingham,United Kingdom,58,18,1488,72
-Caselle,Italy,59,21,2146,87
-Lanzarote,Spain,59,26,1641,79
-Memmingen,Germany,59,22,2277,84
-Berlin,Germany,60,26,12132,173
-Belgrade,Serbia,60,35,13553,159
-Bordeaux,France,60,26,2205,82
-Geneva,Switzerland,60,29,4626,126
-Nice,France,61,31,6675,148
-Poznań,Poland,61,17,2409,84
-Shannon,Ireland,61,24,800,37
-Bristol,United Kingdom,62,22,1110,63
-Trapani,Italy,62.5,16,240,17
-Gran Canaria,Spain,63,29,4708,127
-Podgorica,Montenegro,63,32,3042,101
-Marseille,France,63,28,3263,113
-Nantes,France,63,29,1604,65
-Funchal,Portugal,63,24,5664,110
-Inverness,United Kingdom,63,33,367,10
-Charlestown,Ireland,63,16,275,13
-Zagreb,Croatia,64,23,2711,97
-Santiago de Compostela,Spain,64,23,727,48
-Prague,Czech Republic,65,29,10173,169
-Toulouse,France,65,28,2069,79
-Zaragoza,Spain,65,24,555,40
-Brindisi,Italy,66,18,894,42
-Fuerteventura,Spain,67,34,1480,72
-Cluj-Napoca,Romania,67,27,1257,62
-Lyon,France,67,31,3877,105
-Culleredo,Spain,68,32,448,40
-Frankfurt,Germany,69,34,6769,166
-Strasbourg,France,69,31,3236,100
-Falconara Marittima,Italy,69,19,468,29
-Prishtina,Kosovo,69,37,948,44
-Recea,Romania,69,22,183,12
-Amsterdam,Netherlands,70,39,10039,162
-Genoa,Italy,70,27,1736,89
-Santander,Spain,70,19,808,45
-Vienna,Austria,71,28,10073,167
-Hamburg,Germany,71,31,5267,139
-Košice,Slovakia,71,23,1280,61
-Olbia,Italy,71,33,745,41
-Ronchi dei Legionari/Trieste,Italy,71,18,1163,62
-Perugia,Italy,72,14,448,23
-Rheinmünster,Germany,72,26,1385,73
-Katowice,Poland,73,32,1977,86
-Luxembourg,Luxembourg,73,23,2378,90
-Düsseldorf,Germany,73,42,5610,147
-Suceava,Romania,73,24,1973,73
-Alghero,Italy,73,20,444,26
-Cologne,Germany,74,35,4577,139
-Iaşi,Romania,75,28,2183,80
-Thessaloniki,Greece,76,40,3120,98
-Vilnius,Lithuania,76,26,10996,172
-Girona,Spain,76,20,738,47
-Mahón,Spain,76,22,183,25
-Zurich,Switzerland,77,43,4713,137
-Riga,Latvia,77,30,7069,144
-Cork,Ireland,77,22,715,44
-Vigo,Spain,77,37,195,17
-Varna,Bulgaria,78,35,2463,96
-Stavanger,Norway,79,27,1461,50
-Castletown,Isle of Man,79,30,272,7
-Nuremberg,Germany,80,36,2541,97
-Newcastle upon Tyne,United Kingdom,80,33,606,47
-Turku,Finland,80.5,21,540,34
-Sta Cruz de la Palma,Spain,81,37,430,27
-Brașov,Romania,81,31,625,42
-Tallinn,Estonia,84,21,7262,137
-Kaunas,Lithuania,84,21,2856,102
-Dubrovnik,Croatia,85,53,1318,81
-Aberdeen,United Kingdom,85,36,363,19
-Granada,Spain,85,34,735,45
-Plovdiv,Bulgaria,85,31,466,32
-Göteborg,Sweden,85.5,19,1306,74
-Salerno,Italy,86,41,494,37
-Oradea,Romania,86,49,215,13
-Parma,Italy,87,37,2582,114
-Lublin,Poland,87,27,711,52
-Billund,Denmark,88,27,859,49
-Stuttgart,Germany,88,50,3343,117
-St. Peter,Jersey,88,39,251,11
-Leeds,United Kingdom,88.5,20,530,35
-Łódź,Poland,89,37,694,55
-Munich,Germany,90,54,5660,152
-Jasionka,Poland,90,27,1261,68
-Ljubljana,Slovenia,90,47,2718,91
-Tromsø,Norway,93,45,1937,63
-Helsinki,Finland,94,48,6014,135
-Niš,Serbia,95,33,543,34
-Rimini,Italy,95.5,52,810,59
-Bergen,Norway,96,34,1897,69
-Friedrichshafen,Germany,96,23,254,17
-Hondarribia,Spain,96,41,577,45
-Montpellier/Méditerranée,France,97,34,645,45
-Isola di Capo Rizzuto,Italy,97,47,170,10
-Bodø,Norway,99,24,420,20
-Sarajevo,Bosnia and Herzegovina,99,60,1976,73
-Timişoara,Romania,100,44,321,25
-Corvera,Spain,100,60,427,34
-Zakynthos,Greece,100.5,32,262,21
-Craiova,Romania,101,19,370,25
-Trondheim,Norway,102,41,1014,56
-Heraklion,Greece,102,45,1331,71
-Corfu,Greece,103,51,1601,79
-Southampton,United Kingdom,103,38,160,18
-Mahovljani,Bosnia and Herzegovina,103,38,247,20
-Almería,Spain,105,44,434,28
-Tarbes/Lourdes/Pyrénées,France,105,25,310,15
-Szczecin,Poland,106,27,489,33
-Santa Cruz das Flores,Portugal,106,71,167,10
-Alta,Norway,109,64,153,10
-Rhodes,Greece,109,51,893,61
-Bydgoszcz,Poland,110,48,285,26
-Souda,Greece,110,47,493,33
-Jerez de la Frontera,Spain,110.5,35,300,26
-Bremen,Germany,111,53,1319,72
-Cardiff,United Kingdom,111,60,383,27
-Comiso,Italy,111,39,255,21
-Ålesund,Norway,113,31,599,36
-Salzburg,Austria,114,70,1407,68
-Umeå,Sweden,115,81,296,21
-Aarhus,Denmark,116,47,262,22
-Kvernberget,Norway,117,91,165,10
-Rotterdam,Netherlands,117.5,76,1208,68
-Limoges/Bellegarde,France,118,49,158,13
-Mykonos,Greece,118.5,51,272,31
-Brno,Czech Republic,119,49,417,35
-Luleå,Sweden,121,50,391,25
-Innsbruck,Austria,122,80,1214,67
-Split,Croatia,122,59,1218,69
-Kavala,Greece,122,98,250,16
-Maastricht,Netherlands,123,83,210,22
-Castellón de la Plana,Spain,123,31,211,21
-Bacău,Romania,123,63,340,17
-Kirkenes,Norway,124,50,1323,51
-Tivat,Montenegro,124,81,1789,80
-Burgas,Bulgaria,124,70,1174,63
-Constanța,Romania,124,74,343,23
-Aalborg,Denmark,125,50,201,17
-Gibraltar,Gibraltar,125,53,204,23
-Saint-Jacques-de-la-Lande,France,125,70,403,30
-Valladolid,Spain,126,60,161,15
-Hannover,Germany,127,92,1825,92
-Lesquin,France,129,38,881,48
-Szymany,Poland,130,78,256,12
-Kos Island,Greece,131,48,171,16
-Rovaniemi,Finland,132,75,2202,91
-Foggia,Italy,132,99,157,9
-Palanga,Lithuania,133,48,850,49
-Greven,Germany,137,71,403,35
-Debrecen,Hungary,137,59,276,18
-Kristiansand,Norway,137,35,227,16
-Vaasa,Finland,137,64,168,12
-Biarritz,France,138,65,516,34
-Mostar,Bosnia and Herzegovina,139,82,425,30
-Ajaccio,France,141,90,392,27
-Oulu / Oulunsalo,Finland,141,75,347,28
-Evenes,Norway,142,83,313,24
-Ponta Delgada,Portugal,143,69,1067,51
-Tampere / Pirkkala,Finland,157,60,276,26
-Vila Baleira,Portugal,162,53,651,46
-Perpignan/Rivesaltes,France,163,43,171,12
-Pula,Croatia,165,52,276,24
-Tartu,Estonia,166,81,192,18
-Linz,Austria,169,81,326,27
-Bastia,France,176,125,305,20
-Schkeuditz,Germany,181,117,1171,81
-Zadar,Croatia,181,122,313,25
-Sochi,Russia,183,136,3243,113
-Kiruna,Sweden,186,61,193,16
-Longyearbyen,Norway,187,93,448,25
-Dresden,Germany,188,136,1176,63
-Feldkirchen bei Graz,Austria,188,129,690,39
-Mineralnyye Vody,Russia,189,148,3257,107
-Krasnodar,Russia,192,137,3458,118
-Oostende,Belgium,208,131,604,47
-Kittilä,Finland,210,115,411,27
-Klagenfurt am Wörthersee,Austria,212,151,273,21
-Ivalo,Finland,212,103,231,18
-St Petersburg,Russia,214,157,8266,170
-Beslan,Russia,215,162,1272,60
-Makhachkala,Russia,219,164,1369,61
-Kalamata,Greece,222,145,201,23
-Vágar,Faroe Islands,228,160,772,51
-Brest,France,231,125,421,35
-Kazan,Russia,236,191,3165,114
-Moscow,Russia,236,166,13321,188
-Antwerp,Belgium,239,179,503,40
-Saarbrücken,Germany,249,32,155,19
-Samara,Russia,254,191,2237,97
-Yekaterinburg,Russia,263,215,3346,112
-Ufa,Russia,266,204,2362,93
-Minsk,Belarus,270.5,224,3552,107
-Nizhny Novgorod,Russia,273,233,1642,72
-Kirov,Russia,280,218,315,24
-Chelyabinsk,Russia,285,243,1544,67
-Grozny,Russia,287,254,920,47
-Nizhnekamsk,Russia,287,236,197,19
-Kaliningrad,Russia,288,231,1633,79
-Astrakhan,Russia,289,224,614,36
-Perm,Russia,291,235,1383,62
-Tyumen,Russia,291,243,1310,66
-Novosibirsk,Russia,292,244,2511,88
-Izhevsk,Russia,293,248,507,35
-Volgograd,Russia,293,242,1149,57
-Bolzano,Italy,294,210,297,34
-Cheboksary,Russia,294,248,266,28
-Cherdakly,Russia,295,252,333,24
-Archangelsk,Russia,304,246,294,23
-Omsk,Russia,307,254,893,51
-Orenburg,Russia,309,271,437,34
-Barnaul,Russia,310,266,347,31
-Penza,Russia,310,216,166,14
-Stavropol,Russia,312,265,220,20
-Surgut,Russia,313,264,452,36
-Murmansk,Russia,324,256,343,29
-Syktyvkar,Russia,325,257,210,15
-Krasnoyarsk,Russia,329,285,1198,58
-Kemerovo,Russia,332,285,202,23
-Magnitogorsk,Russia,340,262,157,18
-Tomsk,Russia,348,298,306,27
-Novokuznetsk,Russia,351.5,317,180,20
-Irkutsk,Russia,355,307,631,36
+Dubrave Gornje,Bosnia and Herzegovina,23,8,279,17
+Milan,Italy,28,16,49973,186
+London,United Kingdom,29,17,30239,191
+Palermo,Italy,30,15,6272,110
+Venice,Italy,31,17,12703,149
+Catania,Italy,31,16,5507,99
+Tirana,Albania,31,15,6774,115
+Farranfore,Ireland,31.5,20,168,9
+Valletta,Malta,32,16,5969,120
+Milan Bergamo,Italy,32,20,956,7
+Palma de Mallorca,Spain,35,15,6066,117
+Belfast,United Kingdom,35,19,3622,52
+Bilbao,Spain,36,16,5675,93
+Rome,Italy,37,18,30805,186
+Turin,Italy,37,16,3892,100
+Barcelona,Spain,38,18,30137,190
+Edinburgh,United Kingdom,38,19,7206,115
+Valencia,Spain,38,16,9785,144
+Krakow,Poland,39,18,11184,148
+Ibiza,Spain,39,14,1837,72
+Porto,Portugal,40,20,9549,140
+Budapest,Hungary,40,19,17570,174
+Madrid,Spain,40,20,16992,165
+Lamezia Terme (Calabria),Italy,40,16,1636,53
+Pisa,Italy,41,17,3102,90
+Warsaw,Poland,44,19,23654,190
+Gdansk,Poland,44,17,13517,150
+Malaga,Spain,44,19,10047,151
+Alicante,Spain,44,21,11690,165
+Dublin,Ireland,44,21,8431,148
+Cagliari,Italy,44,16,2291,67
+Seville,Spain,46,19,4968,113
+Reggio Calabria,Italy,46,16,709,30
+Brussels,Belgium,47.5,21,8408,157
+Bari,Italy,48,16,5234,111
+Naples,Italy,49,19,2680,84
+Lisbon,Portugal,50,24,13267,153
+Bologna,Italy,50,17,4773,124
+Chişinău,Moldova,51,21,19778,175
+Paris,France,51,24,21859,200
+Bratislava,Slovakia,51,17,5879,128
+Dortmund,Germany,52,23,3334,103
+Pescara,Italy,52,16,869,44
+Bucharest,Romania,53,21,7969,152
+Oslo,Norway,53,18,8313,127
+Skopje,North Macedonia,53,16,1781,69
+Sofia,Bulgaria,53,20,6778,124
+Manchester,United Kingdom,54,18,3847,115
+Stockholm,Sweden,54,21,7544,134
+Athens,Greece,54,29,9592,149
+Asturias (Oviedo),Spain,54,21,2142,69
+Wroclaw,Poland,56,19,3583,120
+Glasgow,United Kingdom,56,19,1793,59
+Liverpool,United Kingdom,56,19,1151,57
+Faro,Portugal,57,24,2911,103
+Eindhoven,Netherlands,57,28,3068,94
+Copenhagen,Denmark,58,22,7808,143
+Birmingham,United Kingdom,58,18,1573,75
+Caselle,Italy,59,21,2246,88
+Lanzarote,Spain,59,26,1729,82
+Memmingen,Germany,59,22,2393,84
+Belgrade,Serbia,60,35,14044,161
+Bordeaux,France,60,26,2314,84
+Geneva,Switzerland,60,29,4856,127
+Berlin,Germany,61,26,12624,175
+Nice,France,61,31,6975,148
+Poznań,Poland,61,18,2520,89
+Shannon,Ireland,61,24,825,37
+Gran Canaria,Spain,63,29,4951,128
+Podgorica,Montenegro,63,32,3221,101
+Marseille,France,63,28,3440,113
+Nantes,France,63,29,1688,68
+Funchal,Portugal,63,24,5896,114
+Bristol,United Kingdom,63,22,1177,64
+Inverness,United Kingdom,63,33,381,10
+Trapani,Italy,63,16,255,17
+Zagreb,Croatia,64,22,2859,98
+Charlestown,Ireland,64,16,294,13
+Prague,Czech Republic,65,29,10619,170
+Zaragoza,Spain,65,24,594,41
+Santiago de Compostela,Spain,65.5,23,774,48
+Toulouse,France,66,28,2187,79
+Brindisi,Italy,66,18,939,42
+Fuerteventura,Spain,67,34,1563,72
+Cluj-Napoca,Romania,67,27,1320,63
+Lyon,France,67,31,4072,109
+Frankfurt,Germany,69,34,7091,169
+Strasbourg,France,69,31,3381,101
+Culleredo,Spain,69,32,489,41
+Prishtina,Kosovo,69,37,1030,47
+Genoa,Italy,70,27,1831,92
+Santander,Spain,70,19,853,45
+Falconara Marittima,Italy,70,20,498,31
+Amsterdam,Netherlands,71,39,10441,165
+Vienna,Austria,71,28,10539,169
+Hamburg,Germany,71,31,5540,141
+Olbia,Italy,71,33,779,41
+Santorini,Greece,71,44,794,47
+Perugia,Italy,72,14,469,23
+Rheinmünster,Germany,72,26,1485,77
+Košice,Slovakia,72,23,1345,64
+Ronchi dei Legionari/Trieste,Italy,72,19,1224,65
+Katowice,Poland,73,32,2079,90
+Luxembourg,Luxembourg,73,24,2504,93
+Düsseldorf,Germany,73,42,5879,150
+Suceava,Romania,73,25,2057,76
+Alghero,Italy,73,20,470,26
+Cologne,Germany,74,35,4792,139
+Recea,Romania,74,22,193,12
+Iaşi,Romania,75.5,28,2290,81
+Thessaloniki,Greece,76,39,3299,101
+Girona,Spain,76,20,791,49
+Mahón,Spain,76,22,206,25
+Vilnius,Lithuania,77,26,11392,173
+Zurich,Switzerland,77,44,4970,141
+Riga,Latvia,77,30,7416,147
+Cork,Ireland,77,22,757,44
+Vigo,Spain,77,37,213,20
+Varna,Bulgaria,79,35,2606,96
+Castletown,Isle of Man,79,30,286,7
+Stavanger,Norway,80,28,1527,50
+Nuremberg,Germany,80,36,2691,100
+Turku,Finland,80,21,567,35
+Sta Cruz de la Palma,Spain,81,37,450,28
+Newcastle upon Tyne,United Kingdom,81,33,650,47
+Tallinn,Estonia,84,22,7583,138
+Brașov,Romania,84,31,674,45
+Kaunas,Lithuania,85,21,2995,104
+Granada,Spain,85,34,782,47
+Oradea,Romania,85,49,224,14
+Dubrovnik,Croatia,86,53,1413,83
+Salerno,Italy,86,41,523,39
+Aberdeen,United Kingdom,86,36,384,19
+Göteborg,Sweden,86,19,1401,76
+Parma,Italy,87,37,2750,116
+Lublin,Poland,87,27,748,58
+Billund,Denmark,88,27,903,50
+Leeds,United Kingdom,88,20,555,37
+Stuttgart,Germany,89,50,3506,118
+Plovdiv,Bulgaria,89,31,496,32
+Munich,Germany,90,55,5950,154
+Ljubljana,Slovenia,90,47,2843,91
+Łódź,Poland,90,37,750,55
+Jasionka,Poland,91.5,27,1334,68
+Tromsø,Norway,94,45,2023,63
+Helsinki,Finland,94,48,6310,137
+Mahovljani,Bosnia and Herzegovina,94,38,273,20
+Niš,Serbia,95,33,569,36
+Rimini,Italy,95,52,869,59
+Hondarribia,Spain,96,41,611,45
+Bergen,Norway,97,34,1984,70
+St. Peter,Jersey,97,39,267,12
+Montpellier/Méditerranée,France,98,35,696,47
+Bodø,Norway,99,24,447,20
+Sarajevo,Bosnia and Herzegovina,99,61,2094,73
+Friedrichshafen,Germany,100,23,269,18
+Timişoara,Romania,100.5,44,342,25
+Melilla,Spain,101,66,156,12
+Craiova,Romania,101,19,393,25
+Corvera,Spain,101,60,451,35
+Heraklion,Greece,101,45,1405,72
+Isola di Capo Rizzuto,Italy,101,47,179,10
+Zakynthos,Greece,102,32,280,23
+La Rochelle,France,102,29,154,12
+Corfu,Greece,104,52,1704,84
+Almería,Spain,105,45,473,33
+Trondheim,Norway,106,41,1073,56
+Szczecin,Poland,106,27,524,34
+Santa Cruz das Flores,Portugal,106,71,177,10
+Tarbes/Lourdes/Pyrénées,France,107,25,333,15
+Rhodes,Greece,109,51,961,64
+Bydgoszcz,Poland,110,48,312,30
+Comiso,Italy,110,39,273,22
+Bremen,Germany,111,53,1393,73
+Souda,Greece,111,47,528,34
+Jerez de la Frontera,Spain,111,35,332,26
+Brno,Czech Republic,113,61,446,37
+Cardiff,United Kingdom,113,60,418,27
+Alta,Norway,113,64,161,10
+Aarhus,Denmark,114,47,282,22
+Salzburg,Austria,114,71,1490,68
+Ålesund,Norway,115,39,622,36
+Umeå,Sweden,115,81,319,21
+Rotterdam,Netherlands,117,76,1274,68
+Kvernberget,Norway,117,91,177,10
+Limoges/Bellegarde,France,118,49,176,13
+Mykonos,Greece,119,51,302,34
+Kavala,Greece,122,98,261,20
+Castellón de la Plana,Spain,122,29,222,21
+Innsbruck,Austria,123,80,1281,69
+Split,Croatia,123,59,1299,71
+Bacău,Romania,123,47,356,18
+Kirkenes,Norway,124,50,1379,51
+Burgas,Bulgaria,124,70,1259,65
+Tivat,Montenegro,124,81,1884,81
+Constanța,Romania,124,74,361,23
+Aalborg,Denmark,125,50,218,17
+Southampton,United Kingdom,125,38,177,20
+Gibraltar,Gibraltar,126,65,228,24
+Valladolid,Spain,126,60,168,18
+Hannover,Germany,127,92,1938,93
+Saint-Jacques-de-la-Lande,France,129,67,426,30
+Luleå,Sweden,129,50,420,26
+Lesquin,France,130,38,940,48
+Maastricht,Netherlands,130,87,232,22
+Szymany,Poland,130,78,272,12
+Kos Island,Greece,131,48,181,16
+Rovaniemi,Finland,132,75,2321,92
+Foggia,Italy,132,99,167,10
+Palanga,Lithuania,133,48,893,50
+Kristiansand,Norway,134.5,35,242,18
+Greven,Germany,137,70,439,37
+Debrecen,Hungary,137,59,297,18
+Biarritz,France,138,65,562,35
+Mostar,Bosnia and Herzegovina,139,82,451,32
+Ajaccio,France,141,90,421,28
+Oulu / Oulunsalo,Finland,141,75,372,29
+Evenes,Norway,143,83,325,24
+Ponta Delgada,Portugal,143,68,1125,51
+Vaasa,Finland,146,64,179,13
+Horta,Portugal,156,65,161,13
+Tampere / Pirkkala,Finland,157,60,293,26
+Vila Baleira,Portugal,162,53,701,48
+Saint Peter Port,Guernsey,162,100,150,6
+Perpignan/Rivesaltes,France,163,43,178,12
+Pula,Croatia,165,52,291,25
+Linz,Austria,169,81,358,29
+Tartu,Estonia,169,79,207,21
+Kiruna,Sweden,169,61,205,18
+Bastia,France,176,125,322,21
+Zadar,Croatia,181,122,341,28
+Schkeuditz,Germany,182,117,1257,83
+Sochi,Russia,183,136,3417,114
+Feldkirchen bei Graz,Austria,188,128,727,40
+Longyearbyen,Norway,188,106,474,26
+Dresden,Germany,189,136,1250,66
+Mineralnyye Vody,Russia,189,148,3417,107
+Krasnodar,Russia,192,137,3637,119
+Oostende,Belgium,207,130,652,48
+Klagenfurt am Wörthersee,Austria,209,151,290,22
+Ivalo,Finland,209,103,249,19
+Kittilä,Finland,210,112,435,31
+St Petersburg,Russia,214,158,8572,170
+Beslan,Russia,216,162,1352,61
+Makhachkala,Russia,220,164,1460,63
+Kalamata,Greece,220,124,217,23
+Vágar,Faroe Islands,229,163,818,52
+Brest,France,231,125,458,36
+Kazan,Russia,236,191,3340,115
+Moscow,Russia,236,166,13789,188
+Antwerp,Belgium,239,179,549,43
+Saarbrücken,Germany,249,32,167,20
+Samara,Russia,255,192,2379,99
+Yekaterinburg,Russia,263,215,3495,112
+Ufa,Russia,267,206,2480,94
+Minsk,Belarus,271,223,3743,107
+Nizhny Novgorod,Russia,273,233,1741,72
+Kirov,Russia,280,218,337,26
+Chelyabinsk,Russia,285,244,1623,67
+Grozny,Russia,287,254,969,49
+Nizhnekamsk,Russia,287,236,204,20
+Kaliningrad,Russia,288,231,1719,82
+Astrakhan,Russia,289,224,648,36
+Perm,Russia,291,235,1457,63
+Novosibirsk,Russia,292,244,2635,88
+Izhevsk,Russia,293,248,539,38
+Tyumen,Russia,293,243,1377,66
+Volgograd,Russia,293,242,1207,57
+Cheboksary,Russia,293,248,292,28
+Bolzano,Italy,294,210,323,35
+Cherdakly,Russia,295,252,347,24
+Archangelsk,Russia,304,248,305,23
+Omsk,Russia,306,254,939,51
+Orenburg,Russia,308.5,271,454,34
+Barnaul,Russia,310,271,370,31
+Penza,Russia,310,216,172,14
+Stavropol,Russia,312,265,237,21
+Surgut,Russia,313,263,472,37
+Murmansk,Russia,324,256,367,29
+Syktyvkar,Russia,325,257,219,15
+Krasnoyarsk,Russia,329,284,1260,58
+Kemerovo,Russia,332,286,211,23
+Magnitogorsk,Russia,340,262,174,18
+Tomsk,Russia,348,298,316,27
+Novokuznetsk,Russia,351.5,299,186,21
+Irkutsk,Russia,355,305,667,36
