@@ -7,6 +7,47 @@
 you get here is the *distribution* of a route's price, which is the thing a live search can never
 tell you. Updated daily. Source: <https://piratefly.com/?src=github>
 
+## Answers: what people ask about flight prices
+
+Each answer is computed from this dataset's observations (2026-06-14 → 2026-10-30) and
+regenerated with it; the linked page has the chart and the method.
+
+### How far in advance should you book a flight?
+
+Book 1–1.5 months before departure. Tracking the same flights at every lead time (81,915 flights on 17,344 routes, 2026-06-14 to 2026-10-30), that window had the smallest average premium over each flight's lowest fare: +17.2%, against +49.6% in the last 3 days. [Chart and method](https://piratefly.com/research/how-far-in-advance-to-book-flights?src=github)
+
+### Are last-minute flights cheaper?
+
+No. In the last 3 days before departure the same flight cost on average 49.6% more than its cheapest observed fare. Comparing 24,317 flights seen both 3–4 weeks and under a week out, the late fare was higher 67% of the time (median +9.7%). [Chart and method](https://piratefly.com/research/are-last-minute-flights-cheaper?src=github)
+
+### Is it cheaper to book flights months in advance?
+
+Not much. Booking 2–3 months ahead cost on average 22.4% more than the same flight's lowest fare, more than at 1–1.5 months (+17.2%). On 22,906 flights seen both 2–3 months and 3–4 weeks out, the early fare was higher 47.1% of the time: a coin toss. [Chart and method](https://piratefly.com/research/is-it-cheaper-to-book-flights-months-in-advance?src=github)
+
+### What is the cheapest day of the week to fly?
+
+Wednesday. Comparing each fare with the median of its own route, Wednesday departures were +3% and Tuesday +4%, while Friday was the dearest at +10.4%. Weekend departures cost more than midweek ones. [Chart and method](https://piratefly.com/research/cheapest-day-to-fly?src=github)
+
+### What are the cheapest cities to fly to this winter?
+
+Milan (median €28), London (median €29), Palermo (median €30). That is the median one-way fare for departures from 2026-11-01, across 308 cities ranked from fares we observed, counting only cities reachable from at least 50 airports. [Chart and method](https://piratefly.com/research/cheapest-cities-to-fly-to-in-winter?src=github)
+
+### Are flights getting more expensive?
+
+Not right now. The Piratefly monthly Fare Index stands at 97.7 in 2026-10 (month in progress), against 100 in 2026-08: comparable flights are 2.3% cheaper than then, measured on the same routes month to month. [Chart and method](https://piratefly.com/research/are-flights-getting-more-expensive?src=github)
+
+### What is the cheapest month to fly?
+
+November 2026. Comparing each route's fares month by month (booked 8–60 days ahead), November 2026 departures were -1.1% against the route's own median, while September 2026 was the dearest at +6.3%. Covers September 2026, October 2026, November 2026, December 2026; fares observed 2026-06-14 to 2026-10-30. [Chart and method](https://piratefly.com/research/cheapest-month-to-fly?src=github)
+
+### Are domestic flights cheaper than international flights?
+
+Yes. The median one-way fare on a domestic route was €112, against €154.5 for international flights within the same continent and €262 for intercontinental ones (71,205 routes, fares observed 2026-06-14 to 2026-10-30). [Chart and method](https://piratefly.com/research/are-domestic-flights-cheaper-than-international?src=github)
+
+### How much does a flight in Europe cost?
+
+€109 one way at the median, across 25,979 routes within Europe (fares observed 2026-06-14 to 2026-10-30). The cheapest countries to fly to were Albania (€56), Malta (€60.5), Italy (€72); the dearest Belarus (€299) and Russia (€288). [Chart and method](https://piratefly.com/research/how-much-does-a-flight-in-europe-cost?src=github)
+
 ## Files
 
 | File | One row per | Columns |
@@ -54,7 +95,9 @@ The live version of this judgement, per route and in one call, is a free public 
 
 The `research/` folder holds the tables behind the study *When to book flights*: the same flight
 observed at different lead times (premium over its own lowest fare by booking window), departure
-weekday effect, cheapest winter cities, and a chained monthly fare index (2026-08 = 100). Charts,
+weekday effect (`weekday.csv`), departure-month effect (`departure-month.csv`), domestic vs
+international vs intercontinental fares (`route-types.csv`), median fare by European destination
+country (`europe-countries.csv`), cheapest winter cities, and a chained monthly fare index (2026-08 = 100). Charts,
 method and embeddable figures: <https://piratefly.com/research/when-to-book-flights?src=github>
 
 ## Live data: the API
