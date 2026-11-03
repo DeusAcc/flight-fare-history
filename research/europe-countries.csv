@@ -1,38 +1,38 @@
 country,routes,median_eur
-Albania,147,55
-Malta,142,60
-Italy,2842,73
-Ireland,324,76
-Hungary,229,79.5
-Spain,2730,81
-Slovakia,245,84.5
-United Kingdom,1249,85
-North Macedonia,106,85.5
-Moldova,198,88
-Poland,1366,90
-Luxembourg,112,94
-Portugal,800,95
-Switzerland,332,97.5
-Serbia,244,98.5
-Romania,733,100
-Bulgaria,419,101
-Czech Republic,300,103
-Denmark,303,106
+Albania,149,57
+Malta,144,60
+Italy,2853,73
+Ireland,326,77
+Hungary,230,80
+Spain,2761,82
+Slovakia,248,84.5
+United Kingdom,1266,85
+North Macedonia,107,88
+Moldova,200,90
+Poland,1376,91
+Luxembourg,113,94
+Portugal,804,95.25
+Switzerland,333,98
+Serbia,247,99
+Romania,740,100
+Bulgaria,424,101.5
+Denmark,305,103.5
+Czech Republic,303,106
 Montenegro,237,106
-Latvia,164,108
-Croatia,559,108
-Greece,1244,111.75
-Lithuania,370,112.5
-Slovenia,110,114
-Germany,2194,116
-Netherlands,469,117
-France,1876,117
-Estonia,185,117
-Bosnia and Herzegovina,203,119
-Sweden,453,121
-Norway,835,127
-Austria,507,141
-Belgium,304,141.5
-Finland,510,159
-Russia,2805,288
-Belarus,126,298.5
+Latvia,166,109
+Croatia,566,110
+Greece,1252,112
+Lithuania,373,113
+Slovenia,111,114
+Germany,2209,115
+Estonia,187,117
+Netherlands,474,118
+France,1888,118
+Bosnia and Herzegovina,209,119
+Sweden,461,121
+Norway,848,128
+Austria,512,142
+Belgium,307,144
+Finland,513,159
+Russia,2830,288
+Belarus,132,299
