@@ -2,35 +2,35 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23290390.svg)](https://doi.org/10.5281/zenodo.23290390)
 
-**5,455,152 observed fares on 96,360 city pairs, collected continuously since
+**5,594,940 observed fares on 97,227 city pairs, collected continuously since
 2026-06-14.** Not a search engine snapshot: the same routes are observed again and again, so what
 you get here is the *distribution* of a route's price, which is the thing a live search can never
 tell you. Updated daily. Source: <https://piratefly.com/?src=github>
 
 ## Answers: what people ask about flight prices
 
-Each answer is computed from this dataset's observations (2026-06-14 → 2026-11-03) and
+Each answer is computed from this dataset's observations (2026-06-14 → 2026-11-04) and
 regenerated with it; the linked page has the chart and the method.
 
 ### How far in advance should you book a flight?
 
-Book 1–1.5 months before departure. Tracking the same flights at every lead time (89,403 flights on 18,534 routes, 2026-06-14 to 2026-11-02), that window had the smallest average premium over each flight's lowest fare: +16.9%, against +49.2% in the last 3 days. [Chart and method](https://piratefly.com/research/how-far-in-advance-to-book-flights?src=github)
+Book 1–1.5 months before departure. Tracking the same flights at every lead time (92,167 flights on 19,004 routes, 2026-06-14 to 2026-11-03), that window had the smallest average premium over each flight's lowest fare: +16.8%, against +49.3% in the last 3 days. [Chart and method](https://piratefly.com/research/how-far-in-advance-to-book-flights?src=github)
 
 ### Are last-minute flights cheaper?
 
-No. In the last 3 days before departure the same flight cost on average 49.2% more than its cheapest observed fare. Comparing 26,932 flights seen both 3–4 weeks and under a week out, the late fare was higher 67% of the time (median +9.8%). [Chart and method](https://piratefly.com/research/are-last-minute-flights-cheaper?src=github)
+No. In the last 3 days before departure the same flight cost on average 49.3% more than its cheapest observed fare. Comparing 27,894 flights seen both 3–4 weeks and under a week out, the late fare was higher 67% of the time (median +9.7%). [Chart and method](https://piratefly.com/research/are-last-minute-flights-cheaper?src=github)
 
 ### Is it cheaper to book flights months in advance?
 
-Not much. Booking 2–3 months ahead cost on average 21.9% more than the same flight's lowest fare, more than at 1–1.5 months (+16.9%). On 24,736 flights seen both 2–3 months and 3–4 weeks out, the early fare was higher 46.4% of the time: a coin toss. [Chart and method](https://piratefly.com/research/is-it-cheaper-to-book-flights-months-in-advance?src=github)
+Not much. Booking 2–3 months ahead cost on average 21.8% more than the same flight's lowest fare, more than at 1–1.5 months (+16.8%). On 25,363 flights seen both 2–3 months and 3–4 weeks out, the early fare was higher 46.2% of the time: a coin toss. [Chart and method](https://piratefly.com/research/is-it-cheaper-to-book-flights-months-in-advance?src=github)
 
 ### What is the cheapest day of the week to fly?
 
-Wednesday. Comparing each fare with the median of its own route, Wednesday departures were +3.2% and Tuesday +3.9%, while Friday was the dearest at +10.6%. Weekend departures cost more than midweek ones. [Chart and method](https://piratefly.com/research/cheapest-day-to-fly?src=github)
+Wednesday. Comparing each fare with the median of its own route, Wednesday departures were +3.3% and Tuesday +4.1%, while Friday was the dearest at +10.5%. Weekend departures cost more than midweek ones. [Chart and method](https://piratefly.com/research/cheapest-day-to-fly?src=github)
 
 ### What are the cheapest cities to fly to this winter?
 
-Milan (median €28), London (median €29), Palermo (median €30). That is the median one-way fare for departures from 2026-11-01, across 316 cities ranked from fares we observed, counting only cities reachable from at least 50 airports. [Chart and method](https://piratefly.com/research/cheapest-cities-to-fly-to-in-winter?src=github)
+Milan (median €28), London (median €30), Palermo (median €31). That is the median one-way fare for departures from 2026-11-01, across 321 cities ranked from fares we observed, counting only cities reachable from at least 50 airports. [Chart and method](https://piratefly.com/research/cheapest-cities-to-fly-to-in-winter?src=github)
 
 ### Are flights getting more expensive?
 
@@ -38,15 +38,15 @@ Not right now. The Piratefly monthly Fare Index stands at 97.7 in 2026-11 (month
 
 ### What is the cheapest month to fly?
 
-November 2026. Comparing each route's fares month by month (booked 8–60 days ahead), November 2026 departures were -1.1% against the route's own median, while September 2026 was the dearest at +6.2%. Covers September 2026, October 2026, November 2026, December 2026; fares observed 2026-06-14 to 2026-11-02. [Chart and method](https://piratefly.com/research/cheapest-month-to-fly?src=github)
+November 2026. Comparing each route's fares month by month (booked 8–60 days ahead), November 2026 departures were -1.1% against the route's own median, while September 2026 was the dearest at +6.2%. Covers September 2026, October 2026, November 2026, December 2026; fares observed 2026-06-14 to 2026-11-03. [Chart and method](https://piratefly.com/research/cheapest-month-to-fly?src=github)
 
 ### Are domestic flights cheaper than international flights?
 
-Yes. The median one-way fare on a domestic route was €113, against €156 for international flights within the same continent and €264 for intercontinental ones (73,388 routes, fares observed 2026-06-14 to 2026-11-02). [Chart and method](https://piratefly.com/research/are-domestic-flights-cheaper-than-international?src=github)
+Yes. The median one-way fare on a domestic route was €113, against €156 for international flights within the same continent and €264 for intercontinental ones (74,087 routes, fares observed 2026-06-14 to 2026-11-03). [Chart and method](https://piratefly.com/research/are-domestic-flights-cheaper-than-international?src=github)
 
 ### How much does a flight in Europe cost?
 
-€110 one way at the median, across 26,670 routes within Europe (fares observed 2026-06-14 to 2026-11-02). The cheapest countries to fly to were Albania (€57), Malta (€60), Italy (€73); the dearest Belarus (€299) and Russia (€288.5). [Chart and method](https://piratefly.com/research/how-much-does-a-flight-in-europe-cost?src=github)
+€111 one way at the median, across 26,905 routes within Europe (fares observed 2026-06-14 to 2026-11-03). The cheapest countries to fly to were Albania (€57), Malta (€60), Italy (€73.5); the dearest Belarus (€300.5) and Russia (€289). [Chart and method](https://piratefly.com/research/how-much-does-a-flight-in-europe-cost?src=github)
 
 ## Files
 
@@ -65,21 +65,21 @@ Today's price against the history, per route, is one click away:
 
 | Route | Observations | Median € | Lowest € |
 |---|---|---|---|
-| [Tokyo → Osaka](https://piratefly.com/flights/tokyo-to-osaka?src=github) | 6,463 | 50.00 | 24.00 |
-| [Osaka → Tokyo](https://piratefly.com/flights/osaka-to-tokyo?src=github) | 6,457 | 42.00 | 21.00 |
-| [Phuket → Bangkok](https://piratefly.com/flights/phuket-to-bangkok?src=github) | 5,876 | 36.00 | 9.00 |
-| [Paris → Milan](https://piratefly.com/flights/paris-to-milan?src=github) | 5,624 | 33.00 | 13.00 |
-| [Seoul → Jeju City](https://piratefly.com/flights/seoul-to-jeju-city?src=github) | 4,937 | 25.00 | 10.00 |
-| [London → Edinburgh](https://piratefly.com/flights/london-to-edinburgh?src=github) | 4,698 | 24.00 | 14.00 |
-| [Chiang Mai → Bangkok](https://piratefly.com/flights/chiang-mai-to-bangkok?src=github) | 4,681 | 40.00 | 17.00 |
-| [Malé → Colombo](https://piratefly.com/flights/male-to-colombo?src=github) | 4,316 | 158.00 | 121.00 |
-| [London → Milan](https://piratefly.com/flights/london-to-milan?src=github) | 4,308 | 30.00 | 16.00 |
-| [Bangkok → Phuket](https://piratefly.com/flights/bangkok-to-phuket?src=github) | 4,162 | 34.00 | 11.00 |
-| [Gazipaşa → Istanbul](https://piratefly.com/flights/gazipasa-to-istanbul?src=github) | 4,152 | 57.00 | 26.00 |
-| [Hanoi → Da Nang](https://piratefly.com/flights/hanoi-to-da-nang?src=github) | 4,010 | 23.00 | 19.00 |
-| [London → Barcelona](https://piratefly.com/flights/london-to-barcelona?src=github) | 3,957 | 35.00 | 16.00 |
-| [Bangkok → Surat Thani](https://piratefly.com/flights/bangkok-to-surat-thani?src=github) | 3,896 | 31.00 | 12.00 |
-| [IZM → Istanbul](https://piratefly.com/flights/izm-to-istanbul?src=github) | 3,836 | 27.00 | 17.00 |
+| [Osaka → Tokyo](https://piratefly.com/flights/osaka-to-tokyo?src=github) | 6,565 | 42.00 | 21.00 |
+| [Tokyo → Osaka](https://piratefly.com/flights/tokyo-to-osaka?src=github) | 6,559 | 50.00 | 24.00 |
+| [Phuket → Bangkok](https://piratefly.com/flights/phuket-to-bangkok?src=github) | 5,959 | 36.00 | 9.00 |
+| [Paris → Milan](https://piratefly.com/flights/paris-to-milan?src=github) | 5,714 | 33.00 | 13.00 |
+| [Seoul → Jeju City](https://piratefly.com/flights/seoul-to-jeju-city?src=github) | 5,018 | 25.00 | 10.00 |
+| [Chiang Mai → Bangkok](https://piratefly.com/flights/chiang-mai-to-bangkok?src=github) | 4,750 | 40.00 | 17.00 |
+| [London → Edinburgh](https://piratefly.com/flights/london-to-edinburgh?src=github) | 4,743 | 25.00 | 14.00 |
+| [Malé → Colombo](https://piratefly.com/flights/male-to-colombo?src=github) | 4,387 | 158.00 | 121.00 |
+| [London → Milan](https://piratefly.com/flights/london-to-milan?src=github) | 4,364 | 30.00 | 16.00 |
+| [Gazipaşa → Istanbul](https://piratefly.com/flights/gazipasa-to-istanbul?src=github) | 4,233 | 56.00 | 26.00 |
+| [Bangkok → Phuket](https://piratefly.com/flights/bangkok-to-phuket?src=github) | 4,177 | 34.00 | 11.00 |
+| [Hanoi → Da Nang](https://piratefly.com/flights/hanoi-to-da-nang?src=github) | 4,048 | 23.00 | 19.00 |
+| [London → Barcelona](https://piratefly.com/flights/london-to-barcelona?src=github) | 3,997 | 35.00 | 16.00 |
+| [Bangkok → Surat Thani](https://piratefly.com/flights/bangkok-to-surat-thani?src=github) | 3,947 | 31.00 | 12.00 |
+| [IZM → Istanbul](https://piratefly.com/flights/izm-to-istanbul?src=github) | 3,904 | 27.00 | 17.00 |
 
 ## What it answers that a flight search cannot
 
@@ -112,7 +112,7 @@ Docs and Pro checkout: <https://piratefly.com/api/?src=github>
 - Every row is an observed advertised fare, stored at collection time, never a modelled estimate.
 - A route × month group is published only with at least 5 observations; thinner
   groups are left out entirely instead of being filled with a plausible-looking median.
-- Observation window: 2026-06-14 → 2026-11-03. Anything older than that does not exist here.
+- Observation window: 2026-06-14 → 2026-11-04. Anything older than that does not exist here.
 - Coverage follows where fares were found, not a designed sample: city pairs are unevenly
   represented and this is not a random sample of the world's air traffic.
 - One-way advertised fares only. No taxes breakdown, no seat class, no availability guarantee, and
@@ -120,6 +120,6 @@ Docs and Pro checkout: <https://piratefly.com/api/?src=github>
 
 ## Citing
 
-> Piratefly flight fare history, 2026-11-04. 5,455,152 observed fares, 96,360 city pairs. DOI [10.5281/zenodo.23290390](https://doi.org/10.5281/zenodo.23290390). <https://piratefly.com/?src=github>
+> Piratefly flight fare history, 2026-11-05. 5,594,940 observed fares, 97,227 city pairs. DOI [10.5281/zenodo.23290390](https://doi.org/10.5281/zenodo.23290390). <https://piratefly.com/?src=github>
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, say where it came from.
