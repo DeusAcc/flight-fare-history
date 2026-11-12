@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below. Aggregates derived from Travelpayouts (Aviasales) affiliate data; redistribution subject to their terms; attribution required: prices by Aviasales/Travelpayouts."
 type: dataset
 title: "Flight fare history: observed airfare distributions by route and departure month"
 authors:
@@ -8,7 +8,7 @@ authors:
 doi: 10.5281/zenodo.23290390
 url: "https://piratefly.com/?src=citation"
 repository-code: "https://github.com/DeusAcc/flight-fare-history"
-license: CC-BY-4.0
+license-url: "https://piratefly.com/api/#terms"
 keywords:
   - flights
   - airfare
