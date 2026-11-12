@@ -1,38 +1,38 @@
 country,routes,median_eur
 Albania,155,58
-Malta,150,64
-Italy,3047,76
-Ireland,354,77
-Hungary,238,82
-Spain,2970,85
-United Kingdom,1355,87
-Slovakia,266,87
-Moldova,201,88
+Malta,152,64
+Italy,3074,76
+Ireland,357,77
+Hungary,239,82
+Spain,3000,86
+United Kingdom,1369,87
+Slovakia,272,87.5
+Moldova,201,89
 North Macedonia,114,89
-Poland,1430,92
-Portugal,841,98
-Switzerland,347,98
-Luxembourg,117,99
-Romania,815,102
-Bulgaria,445,103
-Denmark,335,106
-Czech Republic,319,106
-Serbia,263,107
-Latvia,172,108
+Poland,1442,92
+Portugal,845,98
+Switzerland,351,98
+Luxembourg,118,99
+Romania,827,103
+Bulgaria,448,103.25
+Denmark,339,106
+Czech Republic,323,106.5
+Serbia,265,107
+Latvia,172,108.5
 Montenegro,242,110
-Lithuania,380,111
-Slovenia,122,113
-Estonia,192,116
-Netherlands,519,118
-Germany,2339,118
-Greece,1349,118
-Croatia,604,120
-Bosnia and Herzegovina,240,121.5
-France,2060,124
-Sweden,526,126
-Norway,940,133.75
-Austria,556,143.75
-Belgium,322,153.5
-Finland,573,162
-Russia,3069,290
+Lithuania,384,111.5
+Slovenia,124,113
+Estonia,194,116
+Netherlands,523,117
+Germany,2357,118
+Greece,1360,118
+Croatia,609,121
+Bosnia and Herzegovina,241,122
+France,2076,124.5
+Sweden,531,127
+Norway,951,134.5
+Austria,563,145
+Belgium,324,153.5
+Finland,585,163
+Russia,3104,291
 Belarus,141,299
