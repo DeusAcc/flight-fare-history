@@ -1,4 +1,4 @@
 type,routes,median_eur,p25_eur
-domestic,10457,122,75.5
-international_same_continent,40852,161,95
-intercontinental,28897,270,167
+domestic,10500,122,76
+international_same_continent,41165,161,96
+intercontinental,29149,271,167
